@@ -1,0 +1,1 @@
+Zbog manjka racunarskih resorsa za izradu ovog zadatka je koriscen "Google Colab" stoga je kod u fajlu tipa .ipynb tj. radjena u jupyter notebook-u.
